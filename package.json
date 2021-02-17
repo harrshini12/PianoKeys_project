@@ -1,0 +1,23 @@
+{
+  "name": "pianokeys_project",
+  "version": "1.0.0",
+  "description": "Piano Keys Instructions: The client wants you to create an interactive game to help their beginner-level piano students study.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrshini12/PianoKeys_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrshini12/PianoKeys_project/issues"
+  },
+  "homepage": "https://github.com/harrshini12/PianoKeys_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
